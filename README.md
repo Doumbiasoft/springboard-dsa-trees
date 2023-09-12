@@ -46,6 +46,7 @@ There is no restriction on how your serialization/deserialization algorithm shou
 You just need to ensure that a binary tree can be serialized to a string and this string can be deserialized to the original tree structure.
 
 For example, you may serialize the following tree
+
 ![img](/tree_1.png)
 
 ```javascript
