@@ -110,7 +110,9 @@ Your return value should also be a BinaryTreeNode.
 You can assume that all the values in the tree are unique.
 
 Examples
+
 ![img](/tree_2.png)
+
 ```js
 const root = new BinaryTreeNode(3);
 const tree = new BinaryTree(root);
